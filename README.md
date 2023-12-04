@@ -16,13 +16,6 @@
 ## Languages and Tools
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ic-venkat&layout=compact)](https://github.com/your-username/github-readme-stats)
 
-## Dev Metrics
-![Dev Metrics](https://github.com/actions/setup-node)
-
-## Connect with Me
-[![Twitter](https://twitter.com/KN_Venkat_sai)
-[![LinkedIn](https://www.linkedin.com/in/k-n-venkata-sai-4a0b591ba/)
-
 
 ## Inspirational Quote
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
