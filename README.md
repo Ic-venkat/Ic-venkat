@@ -1,6 +1,5 @@
 # 👋 Hello Git! I'm K N Venkata Sai
 
-![Header](https://media.licdn.com/dms/image/D5603AQF7SZe9wx-TyQ/profile-displayphoto-shrink_400_400/0/1666876303306?e=1707350400&v=beta&t=o7PV5IozSi85Qq1KRv8SGAnVQM5Z0ytETWq9tJzX2aU)
 
 ## About Me
 - 🚀 Software Developer passionate about open source
