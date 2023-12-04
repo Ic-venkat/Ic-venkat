@@ -20,17 +20,9 @@
 ![Dev Metrics](https://github.com/actions/setup-node)
 
 ## Connect with Me
-[![Twitter](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/your-twitter-handle)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=your-linkedin-link)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=your-instagram-link)](https://www.instagram.com/your-instagram-profile)
+[![Twitter](https://twitter.com/KN_Venkat_sai)
+[![LinkedIn](https://www.linkedin.com/in/k-n-venkata-sai-4a0b591ba/)
 
-## Recent Spotify Activity
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=your-spotify-username)](https://open.spotify.com/user/your-spotify-username)
-
-## Blog Posts
-### Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ## Inspirational Quote
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
