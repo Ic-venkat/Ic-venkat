@@ -22,6 +22,3 @@
 ## Jokes for Fun
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-## GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username)](https://git.io/streak-stats)
-
