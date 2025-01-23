@@ -2,7 +2,6 @@
 
 
 ## About Me
-- 🚀 Software Developer passionate about open source
 - 🌐 Exploring the realms of code
 - 🌱 Learning and growing every day
 
