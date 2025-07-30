@@ -38,7 +38,5 @@
 </p>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ic-venkat&show_icons=true&hide=issues,contribs)
-
 ## GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ic-venkat&theme=darkhub)
